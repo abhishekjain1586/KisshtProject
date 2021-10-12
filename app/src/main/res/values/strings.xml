@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Kissht Project</string>
+
+    <string name="title_launcher">Launcher</string>
+    <string name="title_draw_shape">Draw Shape</string>
+    <string name="title_gallery">Gallery</string>
+
+    <string name="lbl_task_one">Task 1</string>
+    <string name="lbl_task_two">Task 2</string>
+    <string name="lbl_circle">Circle</string>
+    <string name="lbl_undo">Undo</string>
+    <string name="lbl_square">Square</string>
+
+    <string name="error_network_error">Network Error</string>
+</resources>
